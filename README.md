@@ -1,21 +1,19 @@
 <samp>
 
 ## ➤ Hi there 👋, I'm Leonardo Messias 💡
+#### Frontend Developer and Analysis and Systems Development Student
 
-🧑‍🎓 Frontend Developer and Analysis and Systems Development Student
-
-## ➤ About me 
 - :computer: I'm Junior Frontend Developer in ReactJs at <a href="https://ensinio.com/pt/">Ensinio<a/>
 - :mortar_board: I’m currently studying Analysis and Systems Development   
-    :school: at Faculdade de Tecnologia de São José dos Campos [@FATEC](http://fatecsjc-prd.azurewebsites.net/)
+    :school: at Faculdade de Tecnologia de São José dos Campos [FATEC](http://fatecsjc-prd.azurewebsites.net/)
 - :earth_americas: I'm from São José dos Campos - São Paulo, Brasil
 - 📫 How to reach me: [Send me a email](mailto:leonardomessias98@fatec.sp.gov.br)
 
 ## ➤ My stats
 
 <a href="https://github.com/leonardomessias98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomessias98&show_icons=true&theme=buefy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomessias98&layout=compact&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomessias98&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomessias98&layout=compact&theme=radical" />
 </a>
 
 ## ➤ Tools I use daily
