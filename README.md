@@ -10,7 +10,7 @@
 
 #### Here are some info about me: 
 
-- :computer: I’m currently working on <a href="https://ensinio.com/pt/">Ensinio<a/> - As Junior Frontend Developer in ReactJs
+- :computer: I’m currently working at <a href="https://ensinio.com/pt/">Ensinio<a/> - as Junior Frontend Developer in ReactJs
 - :mortar_board: I’m currently studying Analysis and Systems Development   
     :school: at Faculdade de Tecnologia de São José dos Campos [FATEC](http://fatecsjc-prd.azurewebsites.net/)
 - 📫 How to reach me [Send me a email](mailto:leonardomessias98@fatec.sp.gov.br)
