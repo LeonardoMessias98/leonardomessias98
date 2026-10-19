@@ -10,7 +10,7 @@
 
 #### Here are some info about me: 
 
-Hi my name is Leonardo Messias I'm 25 and natural from Brasil <img src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png" width="30px" height="20px" />
+Hi my name is Leonardo Messias I'm 28 and natural from Brasil <img src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png" width="30px" height="20px" />
   
 
 My history with programming isn't too long, in early 2019 I started studing programming logic and algorithms, and I just fell in love with coding, at mid of 2019 I started studying Analysis and Systems Development at Faculdade de Tecnologia de São José dos Campos [FATEC](http://fatecsjc-prd.azurewebsites.net/)
